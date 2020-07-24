@@ -2161,7 +2161,7 @@ p {
   padding: 10px 0;
   z-index: 99; }
   .navbar-area .navbar {
-    position: left;
+    float: right ;
     padding: 0; }
     .navbar-area .navbar .navbar-toggler .toggler-icon {
       width: 30px;
